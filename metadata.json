@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Stay",
+  "description": "An elegant, premium American-style Hostel and Shared Living Management System with interactive Owner and Customer dashboards, Room booking, payments tracking, complaints resolution, and local Room database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
